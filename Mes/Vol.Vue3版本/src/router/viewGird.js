@@ -126,7 +126,7 @@ let viewgird = [
         name: 'EquipmentAlarm',
         component: () => import('@/views/business/equipmentalarm/EquipmentAlarm.vue')
     }    ,{
-        path: '/EquipmentRepair',
+        path: '/EquipmentRepair',     
         name: 'EquipmentRepair',
         component: () => import('@/views/business/equipmentrepair/EquipmentRepair.vue')
     }]
